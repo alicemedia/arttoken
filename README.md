@@ -5,7 +5,7 @@ by Alice Media 2022
 
 # Install
 
-##Publish the Token contract on the Ethereum Blockchain
+## Publish the Token contract on the Ethereum Blockchain
     Visit to [myEtherWallet](https://www.myetherwallet.com/) and go to the contacts tab of myEtherWallet.
     Click on deploy contract.
     Paste the byteCodeWithParam into the byteCode textBox. If the bytecode is correct, the box will become green.
