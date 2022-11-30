@@ -1,4 +1,4 @@
-# arttoken
+# arttoken - ERC 20 Token
 ERC20 Token - With sell, buy, mint and transfer functions
 
 by Alice Media 2022
